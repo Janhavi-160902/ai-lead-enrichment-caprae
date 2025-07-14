@@ -1,0 +1,7 @@
+domain,industry,employee_range,email_verified
+openai.com,Software,51–200,Yes
+stripe.com,Finance,201–500,Yes
+notion.so,Software,11–50,No
+zapier.com,Marketing,51–200,Yes
+slack.com,Software,500+,No
+example.org,Healthcare,1–10,Yes
